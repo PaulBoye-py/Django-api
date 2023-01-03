@@ -1,0 +1,2 @@
+---
+- A simple django project to implement the Django REST Framework in building and applying APIs.
